@@ -1,0 +1,41 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.subheading	{
+	 font-family: 'Source Sans Pro', sans-serif;
+	 font-size: 1.2rem;
+	 font-weight:normal;
+}
+
+h1, h2, h3, h4, h5, h6, .subheading{
+	text-transform: none;
+}
+
+h1, .h1 {
+	font-size: 4.5rem
+}
+
+p.led {
+	font-size: 1.2rem;
+}
+
+.bg-primary {
+	background-color:#86b4ba!important;
+	background-image:url(../assets/img/always-grey.png);
+	
+}
+
+.text-primary {
+	color:#86b4ba!important;
+}
+
+a {
+	color:#86b4ba;
+}
+	
