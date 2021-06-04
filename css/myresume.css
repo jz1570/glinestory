@@ -38,4 +38,7 @@ p.led {
 a {
 	color:#6d8558;
 }
-	
+
+#mainNav . navbar-brand img{
+    height:3.0rem;
+}
