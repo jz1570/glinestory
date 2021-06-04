@@ -566,9 +566,6 @@ pre code {
 mainNav .navbar-brand img {
 	height:2rem
 	transition:height 0.3s ease-in-out;
-	.container-lg, .container-md, .container-sm, .container {
-    max-width: 960px;
-  }
 }
 @media (min-width: 1200px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
