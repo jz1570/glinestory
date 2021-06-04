@@ -562,7 +562,7 @@ pre code {
     max-width: 720px;
   }
 }
-@media (min-width: 992px)
+@media (min-width: 1200px)
 mainNav .navbar-brand img {
 	height:2rem
 	transition:height 0.3s ease-in-out;
