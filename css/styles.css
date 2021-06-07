@@ -10183,6 +10183,7 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
+	color: white; text-shadow: black 0.1em 0.1em 0.2em
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 4.5rem;
