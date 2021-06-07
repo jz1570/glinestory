@@ -10149,7 +10149,7 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
+  color: #fff; text-shadow:black;
   background-image: url("../assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10183,7 +10183,6 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
-	text-shadow:black;
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 4.5rem;
